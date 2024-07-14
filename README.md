@@ -10,6 +10,7 @@ There are two notebooks in this repository:
   - groth16.ipynb
 
 -> interpolation.ipynb: code to obtain the polynomials representing the example problem we present in the dissertation.
+
 -> groth16.ipynb: code to obtain the elliptic curve cryptographic tools and mimic the Groth16 protocol step-by-step.
 
 
