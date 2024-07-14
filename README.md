@@ -13,5 +13,7 @@ There are two notebooks in this repository:
 
 -> groth16.ipynb: code to obtain the elliptic curve cryptographic tools and mimic the Groth16 protocol step-by-step.
 
+How to run: run using SageMath 10.3 kernel (Python extension) or run in Python kernel adding the following line _from sage.all import *_
+
 
 **Note: there will only be a few commits in this repository because version control was done using cloud services and jupyter.
